@@ -1,0 +1,54 @@
+header{
+	width: 98.5%;
+	background-color:purple;
+	padding-left: 10px;
+	padding-right: 10px;
+    color:white;
+    float: left;
+
+}
+
+.logoname {
+	font-size:35px;
+	float: left;
+	padding-right: 80px; 
+}
+.menu{
+	float:left;
+	padding-right: 30px;
+	padding-bottom :10px; 
+	font-size: 25px;
+}
+h1{
+	padding-top:150px;
+	padding-left: 800px;
+	padding-right: 85px;
+	font-size: 50px;
+	color:brown;
+	
+
+}
+.heading {
+	
+	padding-top: 140px;
+	height:500px;
+	width: 100%;
+	padding: 80px 80px;
+	background-image: url("1.jpeg");
+	background-repeat: no-repeat;
+	border-bottom: 1px solid ;	
+}
+.java {
+	float: left;
+	margin: 10px;
+}
+ .text p{
+ 	float: left;
+ }
+
+spam{
+	float: left;
+	 font-size: 20px;
+    padding: 80px;
+    color: brown; 
+}
